@@ -8,7 +8,7 @@ Authors@R:
         family = "Revilla Sancho",
         email = "lluis.revilla@gmail.com",
         role = c("aut", "cre"),
-        comment = c(ORCID = "0000-0001-9747-2570")
+        comment = c(ORCID = "0000-0001-9747-2570"))
 Description: Calculates
     Use four spaces when indenting paragraphs within the Description.
 License: MIT + file LICENSE
