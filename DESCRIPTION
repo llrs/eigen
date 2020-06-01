@@ -15,8 +15,10 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Suggests: 
-    spelling,
-    covr
+    spelling (>= 2.1),
+    covr (>= 3.5.0),
+    testthat
 Language: en-US
 URL: https://github.com/llrs/eigen
 BugReports: https://github.com/llrs/eigen/issues
+RoxygenNote: 7.1.0
