@@ -18,3 +18,5 @@ Suggests:
     spelling,
     covr
 Language: en-US
+URL: https://github.com/llrs/eigen
+BugReports: https://github.com/llrs/eigen/issues
