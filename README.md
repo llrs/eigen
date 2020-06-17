@@ -11,6 +11,8 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 coverage](https://codecov.io/gh/llrs/eigen/branch/master/graph/badge.svg)](https://codecov.io/gh/llrs/eigen?branch=master)
 [![R build
 status](https://github.com/llrs/eigen/workflows/R-CMD-check/badge.svg)](https://github.com/llrs/eigen/actions)
+[![Lifecycle:
+archived](https://img.shields.io/badge/lifecycle-archived-red.svg)](https://www.tidyverse.org/lifecycle/#archived)
 <!-- badges: end -->
 
 The goal of eigen is to calculate eigenvectors from eigenvalues

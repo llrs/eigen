@@ -1,24 +1,23 @@
-Package: eigen
 Type: Package
+Package: eigen
 Title: Calculates eigenvectors from eigenvalues
 Version: 0.0.0.9000
 Authors@R: 
-    person(
-        given = "Lluís", 
-        family = "Revilla Sancho",
-        email = "lluis.revilla@gmail.com",
-        role = c("aut", "cre"),
-        comment = c(ORCID = "0000-0001-9747-2570"))
-Description: Calculates
-    Use four spaces when indenting paragraphs within the Description.
+    person(given = "Lluís",
+           family = "Revilla Sancho",
+           role = c("aut", "cre"),
+           email = "lluis.revilla@gmail.com",
+           comment = c(ORCID = "0000-0001-9747-2570"))
+Description: Calculates Use four spaces when indenting
+    paragraphs within the Description.
 License: MIT + file LICENSE
-Encoding: UTF-8
-LazyData: true
+URL: https://github.com/llrs/eigen
+BugReports: https://github.com/llrs/eigen/issues
 Suggests: 
     spelling (>= 2.1),
     covr (>= 3.5.0),
     testthat
+Encoding: UTF-8
 Language: en-US
-URL: https://github.com/llrs/eigen
-BugReports: https://github.com/llrs/eigen/issues
+LazyData: true
 RoxygenNote: 7.1.0
